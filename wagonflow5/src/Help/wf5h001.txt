@@ -1,0 +1,8 @@
+General hints are offered throughout the program but they are not intended to be a substitute for reading the manual.\n\n 
+Your options here are:\n\n
+Wagonflow: the original, prototypical system which keeps track of all wagons, tells you when to move them, and what kind of traffic your town would welcome on the next train in. The operator decides which vehicles will carry that traffic and can add extra wagons if he wants. If no suitable wagons are available when requested, they follow later as Late Traffic. Block trains such as weekly cattle trains are catered for and interchange of traffic is possible for up to fifteen stations.\n\n
+Autoflow: While Wagonflow copies prototype operation and problems, some modellers will wish for a more relaxed system. Autoflow has Wagonflow’s intelligence to take full control of wagon movements and leaves the you to concentrate purely on running and shunting. It has fewer prototype problems but traffic still goes to sensible places and you still have shunting, block trains, and so on. This is the relaxed way to run your freight services.\n\n
+Timeflow: the timetabling system. At the press of a button it lists train movements station by station, or as a single, integrated list. Timeflow can also keep track of what day it is, so you can easily run “Monday Only”, “Saturday Excepted” and other trains that run irregularly or rarely. And the timetable can display just the ones due to run today!\n\n
+Fast Start: remembers how you last opened Wagonflow and simply resumes things where you last left off.\n\n
+Edit Tables: where you create your data files and add new wagons, rename stations, change your timetables, etc.\n\n
+Quit: Exits the program, saving your data and current position as it does.\n
