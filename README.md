@@ -1,3 +1,3 @@
 # wagonflow
 
-<img src="splash.png"/>
+<img src="images/splash.png"/>
