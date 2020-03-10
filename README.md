@@ -1,6 +1,6 @@
 # wagonflow
 
-<img border="1" src="images/splash.png"/>
+<img border="1px solid black" src="images/splash.png"/>
 
-<img border="1" src="images/main.png"/>
+<img border="1px solid black" src="images/main.png"/>
 
